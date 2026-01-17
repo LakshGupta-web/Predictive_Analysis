@@ -96,4 +96,30 @@ Each sampling technique was applied **only on the training dataset** to maintain
 ---
 
 ## Repository Structure
+Sampling_Assignment/
+│
+├── Creditcard_data.csv
+├── sampling_assignment.ipynb
+├── accuracy_results.csv
+├── README.md
+
+
+---
+
+## Conclusion
+This experiment demonstrates that handling class imbalance is essential for building reliable machine learning models. The choice of sampling technique should be based on the nature of the model and the dataset, as different models respond differently to various sampling strategies.
+
+---
+
+## Author
+**Laksh Gupta**
+
+---
+
+## Tools & Libraries Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Imbalanced-learn (imblearn)
 
